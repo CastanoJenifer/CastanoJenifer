@@ -19,7 +19,7 @@
 - 🌍 Based in **Colombia 🇨🇴**  
 - 🌐 **Languages**:  
   - Spanish (Native)  
-  - English (Advanced)  
+  - English (Upper-Intermediate)  
 - 🌟 **Passions & Interests**:  
   - Full Stack Development
   - Data Science & Analytical Modeling
