@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%EFC7FC&size=60&center=true&vCenter=true&height=80&width=900&lines=Heyyy!+I'm+Jenifer+Castaño;Welcome+to+my+profile!+%3C3"></img>
   <a><img src='https://i.ibb.co/Xk6J5hZQ/Cream-and-Blue-Illustration-Technology-Class-Project-Presentation-removebg-preview.png' alt='Jen' width='200'></a>
-  <h4 align='center'>Life before death. Strength before weakness. Journey before destination. — <a href="https://duckduckgo.com/?q=Brandon+Sanderson">Brandon Sanderson</a>.</h4>
+  <h4 align='center'>Life before death. Strength before weakness. Journey before destination. — <a href="https://duckduckgo.com/?q=Brandon+Sanderson">Brandon Sanderson</a></h4>
 </div>
 
 ---
